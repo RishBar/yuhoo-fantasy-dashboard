@@ -1,1 +1,1 @@
-yoyo git init
+I'm testing if my commits are signed
